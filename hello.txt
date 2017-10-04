@@ -1,3 +1,5 @@
-Hello World!
+Hello
+merge World!
 
-added data
+added conflict
+data
